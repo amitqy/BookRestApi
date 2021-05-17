@@ -1,0 +1,9 @@
+{
+  "data" : {
+    "host" : "localhost:8080",
+    "user-agent" : "PostmanRuntime/7.28.0",
+    "message" : "User user successfully registered",
+    "Date" : "2021-05-16",
+    "Time" : "17:11:55.248"
+  }
+}
